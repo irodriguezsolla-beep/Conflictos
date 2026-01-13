@@ -1,5 +1,5 @@
 A = 3
-B = 2
+B = 23
 resutado = 0
 resultado = A + B
 print(resultado)
